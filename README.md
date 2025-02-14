@@ -10,35 +10,116 @@ I'm an Android developer passionate about creating exceptional mobile experience
 
 ### 🚀 Technologies & Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ktor" height="30" alt="ktor logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="30" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="40" alt="Android" />
+      <br><b>Android</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
+      <br><b>Kotlin</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Jetpack Compose" />
+      <br><b>Jetpack Compose</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
+      <br><b>Android Studio</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Koin" />
+      <br><b>Koin</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+      <br><b>Firebase</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Dagger Hilt" />
+      <br><b>Dagger Hilt</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="Room Database" />
+      <br><b>Room Database</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Coroutines" />
+      <br><b>Coroutines</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="StateFlow" />
+      <br><b>StateFlow & SharedFlow</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Lifecycle" />
+      <br><b>Android Lifecycle</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Navigation Compose" />
+      <br><b>Navigation Compose</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Retrofit" />
+      <br><b>Retrofit</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="OkHttp" />
+      <br><b>OkHttp</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Coil" />
+      <br><b>Coil</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Glide" />
+      <br><b>Glide</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Paging 3" />
+      <br><b>Paging 3</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ktor" height="40" alt="Ktor Client" />
+      <br><b>Ktor Client</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="WorkManager" />
+      <br><b>WorkManager</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Compose UI Testing" />
+      <br><b>Compose UI Testing</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="MockK" />
+      <br><b>MockK</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="JUnit" />
+      <br><b>JUnit</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="Gradle" />
+      <br><b>Gradle</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Detekt" />
+      <br><b>Detekt</b>
+    </td>
+  </tr>
+</table>
 
 ### 💡 Expertise
 - 📱 Native Android Development with Kotlin & Jetpack Compose
-- 🏗️ MVVM and Clean Architecture
+- 🏗️ MVVM, MVI and Clean Architecture
 - 🔄 Kotlin Coroutines & Flows
 - 🔌 API Integration (Retrofit, Ktor)
 - 💉 Dependency Injection (Hilt, Koin)
